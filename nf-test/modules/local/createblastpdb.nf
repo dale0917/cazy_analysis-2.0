@@ -20,7 +20,7 @@ process CREATEBLASTPDB {
     """
     
     mkdir -p output_db
-    makeblastdb -in $fastaFile -dbtype prot -out output_db/${fileName}_blastp_db
+    makeblastdb -in $fastaFile -dbtype prot -out output_db/${fileName}_blastp_db 
 
     # Collect makeblastdb version info (old school way)
     #cat <<-END_VERSIONS > versions.yml

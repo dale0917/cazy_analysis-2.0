@@ -1,0 +1,14 @@
+# Ignorar archivos de registro de Nextflow y nf-test
+.nextflow.log
+.nextflow.log.*
+.nf-test.log
+
+# Ignorar directorios de Nextflow y nf-test
+.nextflow/
+.nf-test/
+
+# Ignorar archivos temporales de pruebas
+tests/modules/local/*.nf.test.snap
+
+# Ignorar el directorio null/ si no lo necesitas
+null/
