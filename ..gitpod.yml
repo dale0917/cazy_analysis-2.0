@@ -1,0 +1,11 @@
+tasks:
+  - name: Install Nextflow
+    command: |
+      if ! command -v nextflow &> /dev/null
+      then
+        echo "Nextflow not found, installing..."
+        curl -s https://get.nextflow.io | bash
+        mkdir -p $HOME/bin
+        mv nextflow $HOME/bin/nextflow
+        echo 'export PATH=$HOME/bin:$PATH' >> $HOME/.bashrc
+      fi
