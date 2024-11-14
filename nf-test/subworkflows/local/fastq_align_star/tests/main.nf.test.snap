@@ -1,0 +1,30 @@
+{
+    "star without pre-built index - paired_end": {
+        "content": [
+            [
+                [
+                    {
+                        "id": "nfcore-test-sample",
+                        "single_end": false
+                    },
+                    "nfcore-test-sample.Aligned.toTranscriptome.out.bam:md5,f32289e2a23390542b4dd40da941193d"
+                ]
+            ]
+        ],
+        "timestamp": "2024-03-26T13:07:14.73782"
+    },
+    "star with pre-built index - paired_end": {
+        "content": [
+            [
+                [
+                    {
+                        "id": "nfcore-test-sample",
+                        "single_end": false
+                    },
+                    "nfcore-test-sample.Aligned.toTranscriptome.out.bam:md5,f32289e2a23390542b4dd40da941193d"
+                ]
+            ]
+        ],
+        "timestamp": "2024-03-26T13:06:39.036651"
+    }
+}

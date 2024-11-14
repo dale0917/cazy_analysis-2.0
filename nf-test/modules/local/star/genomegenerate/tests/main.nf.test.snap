@@ -1,0 +1,58 @@
+{
+    "fasta_gtf_versions": {
+        "content": [
+            [
+                "versions.yml:md5,e2ac64f5d8de891af845ddc9966b5de4"
+            ]
+        ],
+        "timestamp": "2024-03-14T09:53:01.662172"
+    },
+    "fasta_stub_versions": {
+        "content": [
+            [
+                "versions.yml:md5,e2ac64f5d8de891af845ddc9966b5de4"
+            ]
+        ],
+        "timestamp": "2024-03-14T09:53:20.963336"
+    },
+    "fasta_gtf_stub_index": {
+        "content": [
+            "[Genome, Log.out, SA, SAindex, chrLength.txt, chrName.txt, chrNameLength.txt, chrStart.txt, exonGeTrInfo.tab, exonInfo.tab, geneInfo.tab, genomeParameters.txt, sjdbInfo.txt, sjdbList.fromGTF.out.tab, sjdbList.out.tab, transcriptInfo.tab]"
+        ],
+        "timestamp": "2024-03-14T09:53:07.934986"
+    },
+    "fasta_gtf_stub_versions": {
+        "content": [
+            [
+                "versions.yml:md5,e2ac64f5d8de891af845ddc9966b5de4"
+            ]
+        ],
+        "timestamp": "2024-03-14T09:53:07.945147"
+    },
+    "fasta_index": {
+        "content": [
+            "[Genome, Log.out, SA, SAindex, chrLength.txt, chrName.txt, chrNameLength.txt, chrStart.txt, genomeParameters.txt]"
+        ],
+        "timestamp": "2024-03-14T09:53:14.570569"
+    },
+    "fasta_versions": {
+        "content": [
+            [
+                "versions.yml:md5,e2ac64f5d8de891af845ddc9966b5de4"
+            ]
+        ],
+        "timestamp": "2024-03-14T09:53:14.583199"
+    },
+    "fasta_gtf_index": {
+        "content": [
+            "[Genome, Log.out, SA, SAindex, chrLength.txt, chrName.txt, chrNameLength.txt, chrStart.txt, exonGeTrInfo.tab, exonInfo.tab, geneInfo.tab, genomeParameters.txt, sjdbInfo.txt, sjdbList.fromGTF.out.tab, sjdbList.out.tab, transcriptInfo.tab]"
+        ],
+        "timestamp": "2024-03-14T09:53:01.64741"
+    },
+    "fasta_stub_index": {
+        "content": [
+            "[Genome, Log.out, SA, SAindex, chrLength.txt, chrName.txt, chrNameLength.txt, chrStart.txt, genomeParameters.txt]"
+        ],
+        "timestamp": "2024-03-14T09:53:20.952808"
+    }
+}
