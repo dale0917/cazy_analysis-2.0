@@ -1,8 +1,12 @@
 nextflow_process {
 
     name "Test Process RSEM_PREPAREREFERENCE"
-    script "modules/local/preparereference.nf"
+    script "/workspace/nf-test/nf-test/modules/local/rsem/preparereference/preparereference.nf"
     process "RSEM_PREPAREREFERENCE"
+    tag "modules"
+    tag "modules_nfcore"
+    tag "rsem"
+    tag "rsem/preparereference"
 
     test("Should run without failures") {
 
