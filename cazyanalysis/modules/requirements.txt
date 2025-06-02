@@ -1,0 +1,13 @@
+pandas
+biopython
+dash
+seaborn
+networkx
+pyvis
+black
+beautifulsoup4
+dash-cytoscape
+dash-bootstrap-components
+nf-core
+ete3
+PyQt5
