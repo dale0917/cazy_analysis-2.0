@@ -1,0 +1,3 @@
+[submodule "nf-core-cazypipeline"]
+	path = nf-core-cazypipeline
+	url = git@github.com:dale0917/nf-core-cazypipeline.git
